@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--type 1-坦克 2-子弹-->
+<!--1-移动速度 2-防御力 3-攻击力-->
+<Nodes>
+  <Node Id="1001" Type="1" Price="100" Name="极光" Attribute="120" AttriType="1"/>
+  <Node Id="1002" Type="1" Price="200" Name="雷电" Attribute="100" AttriType="1"/>
+  <Node Id="1003" Type="1" Price="300" Name="崩坏" Attribute="80" AttriType="2"/>
+  <Node Id="1004" Type="1" Price="400" Name="破邪" Attribute="90" AttriType="2"/>
+  <Node Id="1005" Type="1" Price="500" Name="铁熊" Attribute="90" AttriType="2"/>
+  <Node Id="1006" Type="2" Price="80" Name="战术" Attribute="120" AttriType="3"/>
+  <Node Id="1007" Type="2" Price="100" Name="穿甲" Attribute="100" AttriType="3"/>
+  <Node Id="1008" Type="2" Price="120" Name="减速" Attribute="80" AttriType="3"/>
+  <Node Id="1009" Type="2" Price="140" Name="追踪" Attribute="90" AttriType="3"/>
+  <Node Id="1010" Type="2" Price="160" Name="爆裂" Attribute="90" AttriType="3"/>
+</Nodes>

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 7394156e9cfa7a2458abbf7a7beb81b5
+timeCreated: 1540178459
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: comm-tower-01
+    100002: comm-tower-02
+    100004: comm-tower-03
+    100006: comm-tower-04
+    100008: comm-tower-05
+    100010: comm-tower-06
+    100012: flame-thrower-01
+    100014: flame-thrower-02
+    100016: flame-thrower-03
+    100018: flame-thrower-04
+    100020: Particle View 01
+    100022: r-launcher-01
+    100024: r-launcher-02
+    100026: r-launcher-03
+    100028: r-launcher-04
+    100030: r-launcher-05
+    100032: turret-01
+    100034: turret-02
+    100036: turret-03
+    100038: turret-04
+    100040: turret-05
+    100042: turret-06
+    100044: turret-07
+    100046: turret-08
+    100048: turret-09
+    100050: turret-10
+    100052: turret-11
+    100054: turret-12
+    100056: turret-13
+    100058: turret-14
+    100060: turret-15
+    100062: turret-16
+    100064: turret-17
+    100066: turret-18
+    100068: turret-19
+    100070: //RootNode
+    400000: comm-tower-01
+    400002: comm-tower-02
+    400004: comm-tower-03
+    400006: comm-tower-04
+    400008: comm-tower-05
+    400010: comm-tower-06
+    400012: flame-thrower-01
+    400014: flame-thrower-02
+    400016: flame-thrower-03
+    400018: flame-thrower-04
+    400020: Particle View 01
+    400022: r-launcher-01
+    400024: r-launcher-02
+    400026: r-launcher-03
+    400028: r-launcher-04
+    400030: r-launcher-05
+    400032: turret-01
+    400034: turret-02
+    400036: turret-03
+    400038: turret-04
+    400040: turret-05
+    400042: turret-06
+    400044: turret-07
+    400046: turret-08
+    400048: turret-09
+    400050: turret-10
+    400052: turret-11
+    400054: turret-12
+    400056: turret-13
+    400058: turret-14
+    400060: turret-15
+    400062: turret-16
+    400064: turret-17
+    400066: turret-18
+    400068: turret-19
+    400070: //RootNode
+    2300000: comm-tower-01
+    2300002: comm-tower-02
+    2300004: comm-tower-03
+    2300006: comm-tower-04
+    2300008: comm-tower-05
+    2300010: comm-tower-06
+    2300012: flame-thrower-01
+    2300014: flame-thrower-02
+    2300016: flame-thrower-03
+    2300018: flame-thrower-04
+    2300020: r-launcher-01
+    2300022: r-launcher-02
+    2300024: r-launcher-03
+    2300026: r-launcher-04
+    2300028: r-launcher-05
+    2300030: turret-01
+    2300032: turret-02
+    2300034: turret-03
+    2300036: turret-04
+    2300038: turret-05
+    2300040: turret-06
+    2300042: turret-07
+    2300044: turret-08
+    2300046: turret-09
+    2300048: turret-10
+    2300050: turret-11
+    2300052: turret-12
+    2300054: turret-13
+    2300056: turret-14
+    2300058: turret-15
+    2300060: turret-16
+    2300062: turret-17
+    2300064: turret-18
+    2300066: turret-19
+    3300000: comm-tower-01
+    3300002: comm-tower-02
+    3300004: comm-tower-03
+    3300006: comm-tower-04
+    3300008: comm-tower-05
+    3300010: comm-tower-06
+    3300012: flame-thrower-01
+    3300014: flame-thrower-02
+    3300016: flame-thrower-03
+    3300018: flame-thrower-04
+    3300020: r-launcher-01
+    3300022: r-launcher-02
+    3300024: r-launcher-03
+    3300026: r-launcher-04
+    3300028: r-launcher-05
+    3300030: turret-01
+    3300032: turret-02
+    3300034: turret-03
+    3300036: turret-04
+    3300038: turret-05
+    3300040: turret-06
+    3300042: turret-07
+    3300044: turret-08
+    3300046: turret-09
+    3300048: turret-10
+    3300050: turret-11
+    3300052: turret-12
+    3300054: turret-13
+    3300056: turret-14
+    3300058: turret-15
+    3300060: turret-16
+    3300062: turret-17
+    3300064: turret-18
+    3300066: turret-19
+    4300000: turret-12
+    4300002: flame-thrower-03
+    4300004: turret-05
+    4300006: turret-13
+    4300008: r-launcher-02
+    4300010: comm-tower-02
+    4300012: comm-tower-05
+    4300014: comm-tower-06
+    4300016: flame-thrower-04
+    4300018: turret-15
+    4300020: turret-16
+    4300022: turret-17
+    4300024: turret-18
+    4300026: comm-tower-04
+    4300028: comm-tower-03
+    4300030: turret-02
+    4300032: turret-04
+    4300034: r-launcher-05
+    4300036: r-launcher-03
+    4300038: turret-01
+    4300040: turret-07
+    4300042: turret-11
+    4300044: r-launcher-04
+    4300046: turret-09
+    4300048: turret-14
+    4300050: turret-10
+    4300052: turret-08
+    4300054: comm-tower-01
+    4300056: r-launcher-01
+    4300058: turret-03
+    4300060: turret-06
+    4300062: turret-19
+    4300064: flame-thrower-01
+    4300066: flame-thrower-02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+package TankDTO；
+
+//向量
+message Vector_3
+{
+	require float x = 1;
+	require float y = 2;
+	require float z = 3;
+}
+
+//颜色
+message Color_4
+{
+	require int32 r = 1;
+	require int32 g = 2;
+	require int32 b = 3;
+	require int32 a = 4;
+}
+
+//每一帧同步坦克的信息
+message Tank
+{
+	require Vector_3 position = 1;
+	require Vector_3 rotation = 2;	
+	optional Color_4 tankcolor = 4;		//颜色同步（非必选项）
+}
+
+
+message TankStatus
+{
+	require int32 state = 1;		//tank 的状态 可以叠加 通过位运算
+}
+
+

@@ -1,0 +1,10 @@
+E:\Project\Project_BloodSword\Server\Bin\proto-msg.dll
+E:\Project\Project_BloodSword\Server\Bin\proto-msg.pdb
+E:\Project\Project_BloodSword\Server\proto-msg\obj\Debug\proto-msg.csprojResolveAssemblyReference.cache
+E:\Project\Project_BloodSword\Server\proto-msg\obj\Debug\proto-msg.dll
+E:\Project\Project_BloodSword\Server\proto-msg\obj\Debug\proto-msg.pdb
+E:\TaskDriven\Tank\TankServer\Bin\proto-msg.dll
+E:\TaskDriven\Tank\TankServer\Bin\proto-msg.pdb
+E:\TaskDriven\Tank\TankServer\proto-msg\obj\Debug\proto-msg.csprojResolveAssemblyReference.cache
+E:\TaskDriven\Tank\TankServer\proto-msg\obj\Debug\proto-msg.dll
+E:\TaskDriven\Tank\TankServer\proto-msg\obj\Debug\proto-msg.pdb

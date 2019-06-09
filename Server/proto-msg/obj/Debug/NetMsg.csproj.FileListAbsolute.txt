@@ -1,0 +1,9 @@
+E:\TCP\WeiHaoYu\TankServer\Bin\proto-msg.dll
+E:\TCP\WeiHaoYu\TankServer\Bin\proto-msg.pdb
+E:\TCP\WeiHaoYu\TankServer\proto-msg\obj\Debug\proto-msg.dll
+E:\TCP\WeiHaoYu\TankServer\proto-msg\obj\Debug\proto-msg.pdb
+E:\TCP\WeiHaoYu2\TankServer\Bin\proto-msg.dll
+E:\TCP\WeiHaoYu2\TankServer\Bin\proto-msg.pdb
+E:\TCP\WeiHaoYu2\TankServer\proto-msg\obj\Debug\proto-msg.dll
+E:\TCP\WeiHaoYu2\TankServer\proto-msg\obj\Debug\proto-msg.pdb
+E:\TCP\WeiHaoYu2\TankServer\proto-msg\obj\Debug\NetMsg.csprojResolveAssemblyReference.cache
