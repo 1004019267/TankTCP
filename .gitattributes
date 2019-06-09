@@ -1,5 +1,5 @@
 *.cs linguist-language=C#
 *.exe linguist-language=C#
 *.apk linguist-language=C#
-Client linguist-language=C#
-Sever linguist-language=C#
+*.X linguist-language=C#
+
